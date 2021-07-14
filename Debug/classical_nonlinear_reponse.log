@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Jack\source\repos\classical_nonlinear_reponse\main.cpp(97,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Jack\source\repos\classical_nonlinear_reponse\main.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack\source\repos\classical_nonlinear_reponse\main.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+  classical_nonlinear_reponse.vcxproj -> C:\Users\Jack\source\repos\classical_nonlinear_reponse\Debug\classical_nonlinear_reponse.exe
